@@ -11,4 +11,5 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="title_activity_compose">ComposeActivity</string>
     <string name="bad_network_view_tip">Your network is not working well, click on the screen to reload!</string>
+    <string name="default_weather">Sunny</string>
 </resources>
